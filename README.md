@@ -1,5 +1,5 @@
 # eslint-config
 
 ```
-npx install-peerdeps @lunrdigital/eslint-config
+npx install-peerdeps -d @lunrdigital/eslint-config
 ```
