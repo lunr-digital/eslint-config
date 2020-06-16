@@ -2,7 +2,7 @@ module.exports = {
     env: {
         node: true,
         browser: true,
-        jest: true
+        jest: true,
     },
     parser: 'babel-eslint',
     extends: ['airbnb', 'prettier', 'prettier/react'],
@@ -14,22 +14,22 @@ module.exports = {
             'error',
             {
                 singleQuote: true,
-                tabWidth: 4
-            }
+                tabWidth: 4,
+            },
         ],
         'no-multiple-empty-lines': [
             2,
             {
-                max: 1
-            }
+                max: 1,
+            },
         ],
         'react/prop-types': 1,
         'react/jsx-filename-extension': 0,
         'import/no-extraneous-dependencies': [
             'error',
             {
-                devDependencies: ['**/test.js', '**/*.test.js']
-            }
-        ]
-    }
+                devDependencies: ['**/test.js', '**/*.test.js'],
+            },
+        ],
+    },
 };

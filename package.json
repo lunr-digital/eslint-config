@@ -36,17 +36,17 @@
     "prettier": "1.x"
   },
   "devDependencies": {
-    "semantic-release": "^15.13.24",
-    "babel-eslint": "^10.0.2",
-    "eslint": "6.2.0",
-    "eslint-config-airbnb": "18.0.1",
-    "eslint-config-prettier": "^3.1.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^22.15.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jest": "^23.13.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.14.3",
-    "eslint-plugin-react-hooks": "^1.7.0",
-    "prettier": "^1.18.2"
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.4",
+    "prettier": "^2.0.5",
+    "semantic-release": "^17.0.8"
   }
 }
